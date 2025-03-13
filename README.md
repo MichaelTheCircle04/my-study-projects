@@ -8,4 +8,6 @@
 
 ### projects:
 
-  - **json-database**: JSON + Jackson + Concurrency + Java Sockets https://github.com/MichaelTheCircle04/json-database
+- **json-database**: JSON + Jackson + Concurrency + Java Sockets https://github.com/MichaelTheCircle04/json-database
+- **hibernate-project**: Spring Boot + Spring HATEOAS + Hibernate + Flyway https://github.com/MichaelTheCircle04/hibernate-project
+
