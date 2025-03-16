@@ -9,5 +9,6 @@
 ### projects:
 
 - **json-database**: JSON + Jackson + Concurrency + Java Sockets https://github.com/MichaelTheCircle04/json-database
+- **quarkus-project**: Quarkus + JOOQ + Redis + Flyway https://github.com/MichaelTheCircle04/hibernate-project
 - **hibernate-project**: Spring Boot + Spring HATEOAS + Hibernate + Flyway https://github.com/MichaelTheCircle04/hibernate-project
 
