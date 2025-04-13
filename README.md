@@ -13,6 +13,7 @@
 - **hibernate-project**: Spring Boot + Spring HATEOAS + Hibernate + Flyway https://github.com/MichaelTheCircle04/hibernate-project
 - **spring-security-standard**: Spring Boot + Spring Security + Spring MVC + JdbcTemplate https://github.com/MichaelTheCircle04/spring-security-standard
 - **vacation-pay-calculator**: Spring Boot + Spring MVC https://github.com/MichaelTheCircle04/vacation-pay-calculator
+- **food-consumption-analyzer**: Spring Boot + Spring Data JPA + Spring MVC + Flyway https://github.com/MichaelTheCircle04/food-consumption-analyzer
 
 ### проекты, которые требуют значительной доработки и к которым пока нет описания:
 - **spring-security-keycloak**: Spring Boot + Spring Security + OAuth2 + Keycloak + Docker/Docker-compose + Kafka + PostgreSQL https://github.com/MichaelTheCircle04/spring-security-keycloak
